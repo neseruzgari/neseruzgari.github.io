@@ -1,4 +1,4 @@
-Gece, Yas ve Anlam
+GECE, YAS VE ANLAM
 
 Bir Viktor Frankl Anması 
 
