@@ -11,3 +11,6 @@ theme: jekyll-theme-midnight # Change this to the theme you want
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+github:
+  is_project_page: false
