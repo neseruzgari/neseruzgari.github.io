@@ -6,7 +6,7 @@ baseurl: "" # The subpath of your site, e.g., /blog. If not, leave as empty stri
 
 # Theme settings
 #theme: jekyll-theme-time-machine
-theme: jekyll-theme-midnight # Change this to the theme you want
+theme: jekyll-theme-merlot # Change this to the theme you want
 
 # Build settings
 markdown: kramdown
