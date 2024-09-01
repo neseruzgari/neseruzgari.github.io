@@ -14,3 +14,4 @@ highlighter: rouge
 
 github:
   is_project_page: false
+show_github_banner: false
