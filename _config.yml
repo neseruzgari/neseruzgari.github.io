@@ -5,7 +5,8 @@ url: https://neseruzgari.github.io
 baseurl: "" # The subpath of your site, e.g., /blog. If not, leave as empty string.
 
 # Theme settings
-theme: jekyll-theme-time-machine # Change this to the theme you want
+#theme: jekyll-theme-time-machine
+theme: jekyll-theme-midnight # Change this to the theme you want
 
 # Build settings
 markdown: kramdown
